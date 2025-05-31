@@ -1,0 +1,6 @@
+[
+    "function balanceOf(address account, uint256 id) public view returns (uint256)",
+    "function safeTransferFrom(address from, address to, uint256 id, uint256 value, bytes memory data) public",
+    "function mySafeTransferFrom(address from, address to, uint256 id, uint256 value, bytes memory data) public",
+    "event Transfer(address sender, address from, address to, uint256 id, uint256 value, bytes data)"
+  ]
